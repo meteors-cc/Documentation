@@ -5,7 +5,7 @@ category: Guides
 authors:
     - name: "feenko"
       link: "https://discord.com/users/1155452926970577008"
-      avatar: "https://media.discordapp.net/attachments/839504618610622564/1262075369683419147/avatar.png?ex=669546c8&is=6693f548&hm=172d5dd9deb726a02040f6f1c1b4b376c1e2fd609a966c541b99125b714dc250&=&format=webp&quality=lossless&width=671&height=671"
+      avatar: "https://media.discordapp.net/attachments/839504618610622564/1262703126704685096/avatar.png?ex=66978f6d&is=66963ded&hm=ab5798910e3aa842538adca1dc56f0b64c065357ea670097dcaddc509d7e2359&=&format=webp&quality=lossless&width=671&height=671"
 date: 2024-07-14
 ---
 
