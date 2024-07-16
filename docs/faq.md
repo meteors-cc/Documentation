@@ -12,12 +12,6 @@ List of frequently asked questions about Meteor Bot.
 
 Not completely. Meteor is a freemium bot, which means that some features are free, while others require a subscription. You can view the pricing on our discord server.
 
-## How can i get the ID of a message?
-
-First of all, ensure you have a "Developer Mode" enabled in your Discord settings. Do that by going to `User Settings`, then `Advanced` and enable `Developer Mode`.
-
-After that, right-click on the message you want to copy the ID of and click on `Copy ID`.
-
 ## Why i can't use meteor/Why is meteor leaving my server?
 
 Meteor has a system called botbans, if anyone is doing something that is against our rules, we will ban the user from using the bot. If you think you were banned by mistake, please contact us on our [Discord server](https://discord.gg/fVhYe98YPu).
