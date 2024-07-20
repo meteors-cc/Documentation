@@ -5,7 +5,7 @@ category: Cheat Sheet
 authors:
     - name: "feenko"
       link: "https://discord.com/users/1155452926970577008"
-      avatar: "https://media.discordapp.net/attachments/839504618610622564/1262703126704685096/avatar.png?ex=66978f6d&is=66963ded&hm=ab5798910e3aa842538adca1dc56f0b64c065357ea670097dcaddc509d7e2359&=&format=webp&quality=lossless&width=671&height=671"
+      avatar: "https://cdn.discordapp.com/avatars/1155452926970577008/1619bb56c2dde1cabfef011309671b9f.png?size=1024"
 date: 2024-07-16
 ---
 
